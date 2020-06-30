@@ -1,0 +1,2 @@
+# Marketing-Analytics
+CURSO SOBRE MARKETING ANALITICO EN R
